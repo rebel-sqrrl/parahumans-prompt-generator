@@ -18,6 +18,7 @@ li {
 {% for char_groups in chars_groups %}
     {% assign groups = groups | concat: char_groups %}
 {% endfor %}
+{% assign groups = groups | uniq %}
 {% for group in groups %}
     <h2>{{ group }}</h2>
     <ul>
