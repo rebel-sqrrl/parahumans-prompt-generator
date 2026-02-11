@@ -1,0 +1,1557 @@
+[
+    {
+        "name": "Taylor",
+        "cape_name": [
+            "Skitter",
+            "Weaver",
+            "Khepri"
+        ],
+        "age": 16,
+        "groups": [
+            "Undersiders",
+            "Wards"
+        ],
+        "family": "Hebert"
+    },
+    {
+        "name": "Lisa",
+        "cape_name": [
+            "Tattletale"
+        ],
+        "age": 17,
+        "groups": [
+            "Undersiders"
+        ],
+        "family": "Livsey"
+    },
+    {
+        "name": "Rachel",
+        "cape_name": [
+            "Bitch"
+        ],
+        "age": 17,
+        "groups": [
+            "Undersiders"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Brian",
+        "cape_name": [
+            "Grue"
+        ],
+        "age": 17,
+        "groups": [
+            "Undersiders",
+            "The Flock"
+        ],
+        "family": "Laborn"
+    },
+    {
+        "name": "Alec",
+        "cape_name": [
+            "Regent",
+            "Hijack"
+        ],
+        "age": 15,
+        "groups": [
+            "Undersiders"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Aisha",
+        "cape_name": [
+            "Imp"
+        ],
+        "age": 13,
+        "groups": [
+            "Undersiders"
+        ],
+        "family": "Laborn"
+    },
+    {
+        "name": "Lily",
+        "cape_name": [
+            "Flechette",
+            "Foil"
+        ],
+        "age": 17,
+        "groups": [
+            "Wards",
+            "Undersiders",
+            "Needlepoints",
+            "Subway Cluster"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Sabah",
+        "cape_name": [
+            "Parian"
+        ],
+        "age": 18,
+        "groups": [
+            "Undersiders",
+            "Needlepoints"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Barker"
+        ],
+        "age": 18,
+        "groups": [
+            "Undersiders"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Biter"
+        ],
+        "age": 18,
+        "groups": [
+            "Undersiders"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Aiden",
+        "cape_name": [
+            "Chicken Little"
+        ],
+        "age": 5,
+        "groups": [
+            "Undersiders",
+            "Tenders"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Snuff"
+        ],
+        "age": 18,
+        "groups": [
+            "Undersiders"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Dennis",
+        "cape_name": [
+            "Clockblocker"
+        ],
+        "age": 16,
+        "groups": [
+            "Wards",
+            "The Flock"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Sophia",
+        "cape_name": [
+            "Shadow Stalker"
+        ],
+        "age": 15,
+        "groups": [
+            "Wards"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Missy",
+        "cape_name": [
+            "Vista"
+        ],
+        "age": 13,
+        "groups": [
+            "Wards",
+            "Wardens"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Carlos",
+        "cape_name": [
+            "Aegis"
+        ],
+        "age": 17,
+        "groups": [
+            "Wards"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Chris",
+        "cape_name": [
+            "Kid Win"
+        ],
+        "age": 14,
+        "groups": [
+            "Wards",
+            "The Flock"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Dean",
+        "cape_name": [
+            "Gallant"
+        ],
+        "age": 17,
+        "groups": [
+            "Wards"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Weld"
+        ],
+        "age": 17,
+        "groups": [
+            "Wards",
+            "Irregulars"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Crucible"
+        ],
+        "age": 15,
+        "groups": [
+            "Wards"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Toggle"
+        ],
+        "age": 12,
+        "groups": [
+            "Wards"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Colin",
+        "cape_name": [
+            "Armsmaster",
+            "Defiant"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate",
+            "Guild"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Hannah",
+        "cape_name": [
+            "Miss Militia"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Robin",
+        "cape_name": [
+            "Velocity"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Ethan",
+        "cape_name": [
+            "Assault"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Battery"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Rory",
+        "cape_name": [
+            "Triumph"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate"
+        ],
+        "family": "Alcott"
+    },
+    {
+        "name": "Emily Piggot",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "PRT"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Thomas Calvert",
+        "cape_name": [
+            "Coil"
+        ],
+        "age": 18,
+        "groups": [
+            "PRT"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Dragon"
+        ],
+        "age": 18,
+        "groups": [
+            "Guild"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Narwhal"
+        ],
+        "age": 18,
+        "groups": [
+            "Guild",
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Adam",
+        "cape_name": [
+            "Skidmark"
+        ],
+        "age": 18,
+        "groups": [
+            "Merchants"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Sherell",
+        "cape_name": [
+            "Squealer"
+        ],
+        "age": 18,
+        "groups": [
+            "Merchants"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Mush"
+        ],
+        "age": 18,
+        "groups": [
+            "Merchants"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Trainwreck"
+        ],
+        "age": 18,
+        "groups": [
+            "Merchants"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Whirlygig"
+        ],
+        "age": 18,
+        "groups": [
+            "Merchants"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Faultline"
+        ],
+        "age": 18,
+        "groups": [
+            "Faultline's Crew"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Emily",
+        "cape_name": [
+            "Spitfire"
+        ],
+        "age": 15,
+        "groups": [
+            "Faultline's Crew"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Newter"
+        ],
+        "age": 16,
+        "groups": [
+            "Faultline's Crew"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Gregor",
+        "cape_name": [
+            "the Snail"
+        ],
+        "age": 18,
+        "groups": [
+            "Faultline's Crew"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Elle",
+        "cape_name": [
+            "Labyrinth"
+        ],
+        "age": 18,
+        "groups": [
+            "Faultline's Crew"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Shamrock"
+        ],
+        "age": 18,
+        "groups": [
+            "Faultline's Crew"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Dinah Alcott",
+        "cape_name": [],
+        "age": 12,
+        "groups": [],
+        "family": "Alcott"
+    },
+    {
+        "name": "Carol",
+        "cape_name": [
+            "Brandish"
+        ],
+        "age": 18,
+        "groups": [
+            "New Wave"
+        ],
+        "family": "New Wave"
+    },
+    {
+        "name": "Mark",
+        "cape_name": [
+            "Flashbang"
+        ],
+        "age": 18,
+        "groups": [
+            "New Wave"
+        ],
+        "family": "New Wave"
+    },
+    {
+        "name": "Neil",
+        "cape_name": [
+            "Manpower"
+        ],
+        "age": 18,
+        "groups": [
+            "New Wave"
+        ],
+        "family": "New Wave"
+    },
+    {
+        "name": "Sarah",
+        "cape_name": [
+            "Lady Photon"
+        ],
+        "age": 18,
+        "groups": [
+            "New Wave"
+        ],
+        "family": "New Wave"
+    },
+    {
+        "name": "Eric",
+        "cape_name": [
+            "Shielder"
+        ],
+        "age": 14,
+        "groups": [
+            "New Wave"
+        ],
+        "family": "New Wave"
+    },
+    {
+        "name": "Victoria",
+        "cape_name": [
+            "Glory Girl",
+            "Antares"
+        ],
+        "age": 17,
+        "groups": [
+            "New Wave",
+            "Breakthrough"
+        ],
+        "family": "New Wave"
+    },
+    {
+        "name": "Amy",
+        "cape_name": [
+            "Panacea",
+            "Red Queen"
+        ],
+        "age": 17,
+        "groups": [
+            "New Wave"
+        ],
+        "family": "New Wave"
+    },
+    {
+        "name": "Crystal",
+        "cape_name": [
+            "Lazerdream"
+        ],
+        "age": 18,
+        "groups": [
+            "New Wave"
+        ],
+        "family": "New Wave"
+    },
+    {
+        "name": "Mike",
+        "cape_name": [
+            "Lightstar"
+        ],
+        "age": 18,
+        "groups": [
+            "New Wave"
+        ],
+        "family": "New Wave"
+    },
+    {
+        "name": "Jess",
+        "cape_name": [
+            "Fleur"
+        ],
+        "age": 18,
+        "groups": [
+            "New Wave"
+        ],
+        "family": "New Wave"
+    },
+    {
+        "name": "Francis Krouse",
+        "cape_name": [
+            "Trickster"
+        ],
+        "age": 18,
+        "groups": [
+            "Travellers"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Cody",
+        "cape_name": [
+            "Perdition"
+        ],
+        "age": 18,
+        "groups": [
+            "Travellers"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Jess",
+        "cape_name": [
+            "Genesis"
+        ],
+        "age": 18,
+        "groups": [
+            "Travellers"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Marissa",
+        "cape_name": [
+            "Sundancer"
+        ],
+        "age": 18,
+        "groups": [
+            "Travellers"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Luke",
+        "cape_name": [
+            "Ballistic"
+        ],
+        "age": 18,
+        "groups": [
+            "Travellers"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Oliver",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Travellers"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Noelle",
+        "cape_name": [
+            "Echidna"
+        ],
+        "age": 18,
+        "groups": [
+            "Travellers"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Uber"
+        ],
+        "age": 18,
+        "groups": [
+            "U&L"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Leet"
+        ],
+        "age": 18,
+        "groups": [
+            "U&L"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Circus"
+        ],
+        "age": 18,
+        "groups": [],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Accord"
+        ],
+        "age": 18,
+        "groups": [
+            "Ambassadors"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Jeanne",
+        "cape_name": [
+            "Citrine"
+        ],
+        "age": 18,
+        "groups": [
+            "Ambassadors"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Othello"
+        ],
+        "age": 18,
+        "groups": [
+            "Ambassadors"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Lizardtail"
+        ],
+        "age": 18,
+        "groups": [
+            "Ambassadors"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Ligeia"
+        ],
+        "age": 18,
+        "groups": [
+            "Ambassadors"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Jacklight"
+        ],
+        "age": 18,
+        "groups": [
+            "Ambassadors"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Codex"
+        ],
+        "age": 18,
+        "groups": [
+            "Ambassadors"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Doctor Mother"
+        ],
+        "age": 18,
+        "groups": [
+            "Cauldron"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Rebecca",
+        "cape_name": [
+            "Alexandria"
+        ],
+        "age": 18,
+        "groups": [
+            "Cauldron",
+            "Protectorate",
+            "PRT"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Keith",
+        "cape_name": [
+            "Legend"
+        ],
+        "age": 18,
+        "groups": [
+            "Cauldron",
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "David",
+        "cape_name": [
+            "Eidolon"
+        ],
+        "age": 18,
+        "groups": [
+            "Cauldron",
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Kurt",
+        "cape_name": [
+            "Harbinger",
+            "Number Man",
+            "Harbinger Clone"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine",
+            "Cauldron"
+        ],
+        "family": ""
+    },
+    {
+        "name": "William Manton",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine",
+            "Cauldron"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Siberian"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Doormaker"
+        ],
+        "age": 18,
+        "groups": [
+            "Cauldron"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Clairvoyant"
+        ],
+        "age": 18,
+        "groups": [
+            "Cauldron"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "The Slug"
+        ],
+        "age": 18,
+        "groups": [
+            "Cauldron"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Custodian"
+        ],
+        "age": 18,
+        "groups": [
+            "Cauldron"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Fortuna",
+        "cape_name": [
+            "Contessa"
+        ],
+        "age": 18,
+        "groups": [
+            "Cauldron"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Ashley",
+        "cape_name": [
+            "Damsel of Distress I",
+            "Damsel of Distress II",
+            "Swansong"
+        ],
+        "age": 18,
+        "groups": [
+            "Deathchester",
+            "Breakthrough"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Chris Elman",
+        "cape_name": [
+            "Lab Rat",
+            "Cryptid"
+        ],
+        "age": 18,
+        "groups": [
+            "Breakthrough"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Sveta",
+        "cape_name": [
+            "Garrotte",
+            "Tress"
+        ],
+        "age": 18,
+        "groups": [
+            "Irregulars",
+            "Breakthrough"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Kenzie",
+        "cape_name": [
+            "Optics",
+            "Lookout"
+        ],
+        "age": 7,
+        "groups": [
+            "Wards",
+            "Breakthrough",
+            "Tenders"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Tristan",
+        "cape_name": [
+            "Capricorn Red"
+        ],
+        "age": 13,
+        "groups": [
+            "Breakthrough",
+            "Reach"
+        ],
+        "family": "Vera"
+    },
+    {
+        "name": "Byron",
+        "cape_name": [
+            "Capricorn Blue"
+        ],
+        "age": 13,
+        "groups": [
+            "Breakthrough",
+            "Reach"
+        ],
+        "family": "Vera"
+    },
+    {
+        "name": "Rain",
+        "cape_name": [
+            "Precipice"
+        ],
+        "age": 12,
+        "groups": [
+            "Fallen",
+            "Breakthrough",
+            "Needlepoints"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Roman Vasil",
+        "cape_name": [],
+        "age": 8,
+        "groups": [
+            "Heartbroken",
+            "Needlepoints"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Juliette",
+        "cape_name": [
+            "Catena"
+        ],
+        "age": 9,
+        "groups": [
+            "Heartbroken"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Chastity Vasil",
+        "cape_name": [],
+        "age": 13,
+        "groups": [
+            "Heartbroken",
+            "Needlepoints"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Darlene",
+        "cape_name": [
+            "Syndicate"
+        ],
+        "age": 6,
+        "groups": [
+            "Heartbroken",
+            "Tenders"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Candy",
+        "cape_name": [
+            "Decadent"
+        ],
+        "age": 7,
+        "groups": [
+            "Heartbroken",
+            "Tenders"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Aroa Vasil",
+        "cape_name": [],
+        "age": 9,
+        "groups": [
+            "Heartbroken"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Samuel Vasil",
+        "cape_name": [],
+        "age": 12,
+        "groups": [
+            "Heartbroken"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Florence Vasil",
+        "cape_name": [],
+        "age": 5,
+        "groups": [
+            "Heartbroken"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Valentina Vasil",
+        "cape_name": [],
+        "age": 17,
+        "groups": [
+            "Heartbroken"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Cherie",
+        "cape_name": [
+            "Cherish"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine",
+            "Heartbroken"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Nicholas Vasil",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Heartbroken"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Guillaume Vasil",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Heartbroken"
+        ],
+        "family": "Vasil"
+    },
+    {
+        "name": "Danny Hebert",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Parents"
+        ],
+        "family": "Hebert"
+    },
+    {
+        "name": "Annette Hebert",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Parents"
+        ],
+        "family": "Hebert"
+    },
+    {
+        "name": "June Livsey",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Parents"
+        ],
+        "family": "Livsey"
+    },
+    {
+        "name": "Fred Livsey",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Parents"
+        ],
+        "family": "Livsey"
+    },
+    {
+        "name": "May",
+        "cape_name": [
+            "March"
+        ],
+        "age": 16,
+        "groups": [
+            "Megacluster",
+            "Subway Cluster"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Homer"
+        ],
+        "age": 18,
+        "groups": [
+            "Subway Cluster"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Tori Heflin",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Smuggler Cluster",
+            "Megacluster"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Bianca",
+        "cape_name": [
+            "Goddess"
+        ],
+        "age": 18,
+        "groups": [
+            "Smuggler Cluster"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Megan",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Smuggler Cluster",
+            "Megacluster"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Jace",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Smuggler Cluster",
+            "Megacluster"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Bill",
+        "cape_name": [
+            "Blood Priest"
+        ],
+        "age": 18,
+        "groups": [
+            "Smuggler Cluster"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Ysmine",
+        "cape_name": [],
+        "age": 18,
+        "groups": [
+            "Smuggler Cluster"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Jack",
+        "cape_name": [
+            "Slash"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Ned",
+        "cape_name": [
+            "Crawler"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Alan",
+        "cape_name": [
+            "Mannequin",
+            "Sphere"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Shatterbird"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Mimi",
+        "cape_name": [
+            "Burnscar"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Riley",
+        "cape_name": [
+            "Bonesaw"
+        ],
+        "age": 12,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Hatchetface"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Murder Rat"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Pagoda"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Night Hag"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Psychosoma"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Skinslip"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Nyx"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Bradley",
+        "cape_name": [
+            "Breed"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Chuckles"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Winter"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Crimson"
+        ],
+        "age": 18,
+        "groups": [
+            "Slaughterhouse Nine"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Chevalier"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Dovetail"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Adamant"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Ursa Aurora"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Prism"
+        ],
+        "age": 18,
+        "groups": [
+            "Protectorate"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Jouster"
+        ],
+        "age": 17,
+        "groups": [
+            "Wards"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Halo"
+        ],
+        "age": 18,
+        "groups": [
+            "Haven"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Rosary"
+        ],
+        "age": 18,
+        "groups": [
+            "Haven"
+        ],
+        "family": ""
+    },
+    {
+        "name": "Nate",
+        "cape_name": [
+            "Reconciliation"
+        ],
+        "age": 13,
+        "groups": [
+            "Haven"
+        ],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Lord of Loss"
+        ],
+        "age": 18,
+        "groups": [],
+        "family": ""
+    },
+    {
+        "name": "",
+        "cape_name": [
+            "Nursery"
+        ],
+        "age": 18,
+        "groups": [],
+        "family": ""
+    }
+]
